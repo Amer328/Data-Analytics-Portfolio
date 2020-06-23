@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-My portfolio of data analytics projects.
+My Github Pages repository of recently developed data analytics projects.
